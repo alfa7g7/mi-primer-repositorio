@@ -4,3 +4,4 @@ Mi primer repositorio en GitHub para el FreeCodeCamp
 git bash
 
 
+Prueba de VSC
