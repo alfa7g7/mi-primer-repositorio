@@ -1,4 +1,4 @@
-# Practica de git pull
+# Practica de git pull en VSC
 # mi-primer-README
 Mi primer repositorio en GitHub para el FreeCodeCamp
 
